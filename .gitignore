@@ -1,3 +1,12 @@
 datasets/*
 .idea
 __pycache__
+.DS_Store
+*.tar
+.ipynb_checkpoints/
+_frames_out
+checkpoint
+*.txt
+msvd/YouTubeClips
+*.json
+msvd/video_features/
